@@ -1,0 +1,10 @@
+# 비밀 키
+.env
+# 수집 데이터 (collect.py로 각자 생성)
+data/*.db
+# 파이썬
+.venv/
+__pycache__/
+*.pyc
+# macOS
+.DS_Store
